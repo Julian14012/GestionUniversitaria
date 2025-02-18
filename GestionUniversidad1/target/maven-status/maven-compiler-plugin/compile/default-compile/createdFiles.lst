@@ -1,0 +1,13 @@
+modelo\Estudiante.class
+modelo\CursoProfesor.class
+modelo\Facultad.class
+gestor\CursosProfesores.class
+modelo\Inscripción.class
+modelo\Profesor.class
+modelo\Persona.class
+gestor\InscripcionesPersonas.class
+servicios\Servicios.class
+gestionuniversidad\GestionUniversidad1.class
+modelo\Curso.class
+gestor\CursosInscritos.class
+modelo\Programa.class
